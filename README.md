@@ -6,6 +6,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)
 
 > Projeto desenvolvido durante o curso **"Análise de Dados com Python — Meus Primeiros Passos"** da **Programaria**, comunidade voltada para mulheres na tecnologia. Análise exploratória dos dados da pesquisa **State of Data Brazil 2022** (Datahackers), com foco em diversidade de gênero, raça e desigualdade salarial no mercado de TI brasileiro.
 
@@ -121,6 +122,16 @@ Abra o notebook no **Google Colab** ou **Jupyter Notebook**.
 
 ---
 
+## 📊 Dashboard Interativo — Looker Studio
+
+Além da análise exploratória em Python, os dados foram visualizados em um **dashboard interativo** construído no Google Looker Studio durante o curso Programaria.
+
+[![Acessar Dashboard](https://img.shields.io/badge/▶%20Acessar%20Dashboard%20ao%20vivo-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)](https://datastudio.google.com/reporting/4596fb69-f243-49ce-946f-ca0311e37cdc)
+
+> O dashboard complementa a análise Python com visualizações interativas e filtros dinâmicos — demonstrando o uso de **múltiplas ferramentas** no mesmo projeto de dados.
+
+---
+
 ## 🗺️ Próximos Passos
 
 ```
@@ -159,3 +170,4 @@ Abra o notebook no **Google Colab** ou **Jupyter Notebook**.
 Como mulher em transição de carreira para tecnologia, este projeto tem um significado especial: analisar dados sobre o próprio mercado que estou ingressando, com foco em representatividade e equidade.
 
 🔗 [GitHub](https://github.com/anna-kelly) · [LinkedIn](https://linkedin.com/in/anna-kelly-sousa-084a152b5)
+
