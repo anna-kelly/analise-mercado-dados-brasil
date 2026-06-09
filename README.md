@@ -1,6 +1,6 @@
 # 📊 Análise do Mercado de Dados no Brasil — Diversidade & Salários
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
@@ -74,14 +74,14 @@ Este projeto usa esses dados reais para responder perguntas como:
 
 ## 🛠️ Tecnologias Utilizadas
 
-| Biblioteca | Uso |
-|---|---|
-| `Pandas` | Manipulação e análise de dados |
-| `NumPy` | Operações numéricas e estatística |
-| `Matplotlib` | Visualizações estáticas |
-| `Seaborn` | Visualizações estatísticas |
-| `Plotly` | Visualizações interativas |
-| `SciPy` | Estatística avançada (intervalo de confiança, Cramér) |
+| Biblioteca   | Uso                                                   |
+| ------------ | ----------------------------------------------------- |
+| `Pandas`     | Manipulação e análise de dados                        |
+| `NumPy`      | Operações numéricas e estatística                     |
+| `Matplotlib` | Visualizações estáticas                               |
+| `Seaborn`    | Visualizações estatísticas                            |
+| `Plotly`     | Visualizações interativas                             |
+| `SciPy`      | Estatística avançada (intervalo de confiança, Cramér) |
 
 ---
 
@@ -113,12 +113,11 @@ Abra o notebook no **Google Colab** ou **Jupyter Notebook**.
 
 ## 💡 Alguns Insights Encontrados
 
-> *(Em construção — sendo atualizado conforme o curso avança)*
-
 - 👩 Mulheres representam uma parcela significativamente menor dos cargos de gestão
 - 💰 A diferença salarial entre gêneros é observável mesmo controlando por nível de carreira
 - 📉 A correlação entre idade e salário existe, mas é mais fraca do que o esperado
 - 🎓 O nível de escolaridade tem impacto relevante na faixa salarial
+- 🌍 Pessoas pretas e pardas são sub-representadas nos níveis de liderança
 
 ---
 
@@ -126,13 +125,13 @@ Abra o notebook no **Google Colab** ou **Jupyter Notebook**.
 
 Além da análise exploratória em Python, os dados foram visualizados em um **dashboard interativo** construído no Google Looker Studio durante o curso Programaria.
 
-[![Acessar Dashboard](https://img.shields.io/badge/▶%20Acessar%20Dashboard%20ao%20vivo-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)](https://datastudio.google.com/reporting/4596fb69-f243-49ce-946f-ca0311e37cdc)
+[![Acessar Dashboard](https://img.shields.io/badge/%E2%96%B6%20Acessar%20Dashboard%20ao%20vivo-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)](https://datastudio.google.com/reporting/4596fb69-f243-49ce-946f-ca0311e37cdc)
 
 > O dashboard complementa a análise Python com visualizações interativas e filtros dinâmicos — demonstrando o uso de **múltiplas ferramentas** no mesmo projeto de dados.
 
 ---
 
-## 🗺️ Próximos Passos
+## 🗺️ Progresso do Projeto
 
 ```
 ✅ Tratamento de dados nulos
@@ -141,25 +140,24 @@ Além da análise exploratória em Python, os dados foram visualizados em um **d
 ✅ Feature Engineering
 ✅ Correlação entre variáveis
 ✅ Visualizações com Matplotlib, Seaborn e Plotly
-
-🔄 Em andamento:
-   → Análise aprofundada de diversidade de gênero e raça
-   → Dashboard interativo com os principais insights
-   → Conclusões e recomendações finais
+✅ Análise aprofundada de diversidade de gênero e raça
+✅ Dashboard interativo com os principais insights
+✅ Conclusões e recomendações finais
 ```
 
 ---
 
 ## 🏫 Contexto do Curso
 
-| | |
-|---|---|
-| **Curso** | Análise de Dados com Python — Meus Primeiros Passos |
-| **Instituição** | Programaria |
-| **Foco** | Mulheres na tecnologia |
-| **Duração** | 60 horas |
-| **Ano** | 2026 |
-| **Ambiente** | Google Colab |
+|                 |                                                     |
+| --------------- | --------------------------------------------------- |
+| **Curso**       | Análise de Dados com Python — Meus Primeiros Passos |
+| **Instituição** | Programaria                                         |
+| **Foco**        | Mulheres na tecnologia                              |
+| **Carga horária** | 20 horas                                          |
+| **Conclusão**   | Junho de 2026                                       |
+| **Certificado** | [nzo3pddm6t](https://github.com/anna-kelly/analise-mercado-dados-brasil) |
+| **Ambiente**    | Google Colab                                        |
 
 ---
 
@@ -170,4 +168,3 @@ Além da análise exploratória em Python, os dados foram visualizados em um **d
 Como mulher em transição de carreira para tecnologia, este projeto tem um significado especial: analisar dados sobre o próprio mercado que estou ingressando, com foco em representatividade e equidade.
 
 🔗 [GitHub](https://github.com/anna-kelly) · [LinkedIn](https://linkedin.com/in/anna-kelly-sousa-084a152b5)
-
