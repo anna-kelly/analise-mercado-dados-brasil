@@ -90,8 +90,21 @@ Este projeto usa esses dados reais para responder perguntas como:
 ```
 analise-mercado-dados-brasil/
 │
-└── Uso_da_biblioteca_Pandas_em_Py_PROGRAMARIA.ipynb   # Notebook principal
+├── Uso_da_biblioteca_Pandas_em_Py_PROGRAMARIA.ipynb   # Notebook 1 — Pandas e EDA
+├── [Notebook 2 — nome do arquivo]                     # Notebook 2 — análise complementar
+└── certificado-programaria-2026.pdf                   # Certificado de conclusão
 ```
+
+---
+
+## 🔗 Acesse o Projeto
+
+| Material | Link |
+| -------- | ---- |
+| 📓 Notebook 1 — Pandas e EDA | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D_nYfGJ42g6-Lk1b4K7xxp4SmYKWKxSr?usp=drive_link) |
+| 📓 Notebook 2 — Regresão linear | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vee9ea1rmkBAdgZZ1iERAbb-1Q7X1umA?usp=drive_link) |
+| 📊 Dashboard Looker Studio | [![Acessar](https://img.shields.io/badge/Looker%20Studio-Acessar-4285F4?style=flat&logo=googledatastudio&logoColor=white)](https://datastudio.google.com/reporting/4596fb69-f243-49ce-946f-ca0311e37cdc) |
+| 🏅 Certificado de Conclusão | [certificado-programaria-2026.pdf](./certificado-programaria-2026.pdf) |
 
 ---
 
@@ -105,7 +118,7 @@ git clone https://github.com/anna-kelly/analise-mercado-dados-brasil.git
 cd analise-mercado-dados-brasil
 ```
 
-Abra o notebook no **Google Colab** ou **Jupyter Notebook**.
+Abra os notebooks diretamente no **Google Colab** pelos links acima ou no **Jupyter Notebook** localmente.
 
 > ⚠️ Os dados utilizados são da pesquisa **State of Data Brazil 2022** (Datahackers). O arquivo de dados não está incluso no repositório por questões de licenciamento — acesse em [datahackers.com.br](https://datahackers.com.br).
 
@@ -123,11 +136,7 @@ Abra o notebook no **Google Colab** ou **Jupyter Notebook**.
 
 ## 📊 Dashboard Interativo — Looker Studio
 
-Além da análise exploratória em Python, os dados foram visualizados em um **dashboard interativo** construído no Google Looker Studio durante o curso Programaria.
-
-[![Acessar Dashboard](https://img.shields.io/badge/%E2%96%B6%20Acessar%20Dashboard%20ao%20vivo-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)](https://datastudio.google.com/reporting/4596fb69-f243-49ce-946f-ca0311e37cdc)
-
-> O dashboard complementa a análise Python com visualizações interativas e filtros dinâmicos — demonstrando o uso de **múltiplas ferramentas** no mesmo projeto de dados.
+Além da análise exploratória em Python, os dados foram visualizados em um **dashboard interativo** construído no Google Looker Studio. O dashboard complementa a análise Python com visualizações interativas e filtros dinâmicos — demonstrando o uso de **múltiplas ferramentas** no mesmo projeto de dados.
 
 ---
 
