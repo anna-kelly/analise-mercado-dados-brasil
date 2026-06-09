@@ -91,7 +91,7 @@ Este projeto usa esses dados reais para responder perguntas como:
 analise-mercado-dados-brasil/
 │
 ├── Uso_da_biblioteca_Pandas_em_Py_PROGRAMARIA.ipynb   # Notebook 1 — Pandas e EDA
-├── [Notebook 2 — nome do arquivo]                     # Notebook 2 — análise complementar
+├── regressão_linear                                   # Notebook 2 — análise complementar
 └── certificado-programaria-2026.pdf                   # Certificado de conclusão
 ```
 
